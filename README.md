@@ -10,6 +10,6 @@
 
 # How to run? (💀bruh why u ask this)
 ```
-python main.py
+python "Plague Obfuscate.py"
 ```
 - you drag the file to the tool (if didn't work then just copy file to tool dir and type name)
